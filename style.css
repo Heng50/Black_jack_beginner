@@ -1,0 +1,29 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("images/images.jpeg");
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+h1{
+    color: goldenrod;
+
+}
+
+#mesasge-el{
+    font-style: italic;
+}
+
+button{
+    position: block;
+    color: #016f32;
+    width : 150px;
+    background: goldenrod;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    padding-top: 5px;
+    margin-bottom: 4px;
+}
